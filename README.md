@@ -10,6 +10,9 @@ This project explain the traefik setup
 * docker-compose up -d --scale whoami=2
 
 # Import json into postman and check the API for invoke
+# URLS
+ * http://localhost:8080/dashboard/#/
+ * http://127.0.0.1:8080/api/rawdata
 
 # Reference 
   * https://doc.traefik.io/traefik/getting-started/quick-start/
